@@ -71,11 +71,7 @@ Performed in `model_building.py`, this step includes:
 
 ---
 
-## 🔮 Default Risk Prediction
 
-Use `risk_predictor.py` to apply the trained model on new applicants:
-
----
 
 ## 🧪 Run Instructions
 
